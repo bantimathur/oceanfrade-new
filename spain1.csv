@@ -1,0 +1,22 @@
+Destination Country,Destination City/Port,"ORIGIN                       (Port of Loading)          3 Only -        Toronto, Montreal, Vancouver",DESTINATION                (Port of Unloading)   Various,Sailing Frequency,Transit Time (Days)             (Port to Port),Ocean Freight Charges PER CBM Rate (USD),(Minimim Ocean Freight Charges/ shipment)
+SPAIN (incl. Balearic Islands),BARCELONA,Montreal,BCN,Weekly,21,82,82
+SPAIN (incl. Balearic Islands),BARCELONA,Toronto,BCN,Weekly,21,87,87
+SPAIN (incl. Balearic Islands),BARCELONA,Vancouver,BCN,Weekly,21,127,127
+SPAIN (incl. Balearic Islands),BILBAO VIA BARCELONA,Montreal,BIO,Weekly,29,135,135
+SPAIN (incl. Balearic Islands),BILBAO VIA BARCELONA,Toronto,BIO,Weekly,29,140,140
+SPAIN (incl. Balearic Islands),BILBAO VIA BARCELONA,Vancouver,BIO,Weekly,29,190,190
+SPAIN (incl. Balearic Islands),CADIZ VIA BARCELONA,Montreal,CAD,Weekly,31,205,205
+SPAIN (incl. Balearic Islands),CADIZ VIA BARCELONA,Toronto,CAD,Weekly,31,210,210
+SPAIN (incl. Balearic Islands),CADIZ VIA BARCELONA,Vancouver,CAD,Weekly,31,260,260
+SPAIN (incl. Balearic Islands),IBIZA VIA BARCELONA,Montreal,IBL,Weekly,33,225,285
+SPAIN (incl. Balearic Islands),IBIZA VIA BARCELONA,Toronto,IBL,Weekly,33,230,290
+SPAIN (incl. Balearic Islands),IBIZA VIA BARCELONA,Vancouver,IBL,Weekly,40,280,340
+SPAIN (incl. Balearic Islands),MADRID VIA BARCELONA,Montreal,MAD,Weekly,29,140,140
+SPAIN (incl. Balearic Islands),MADRID VIA BARCELONA,Toronto,MAD,Weekly,29,145,145
+SPAIN (incl. Balearic Islands),MADRID VIA BARCELONA,Vancouver,MAD,Weekly,29,180,180
+SPAIN (incl. Balearic Islands),PALMA DE MALLORCA VIA BARCELONA,Montreal,PMI,Weekly,30,265,330
+SPAIN (incl. Balearic Islands),PALMA DE MALLORCA VIA BARCELONA,Toronto,PMI,Weekly,30,275,335
+SPAIN (incl. Balearic Islands),PALMA DE MALLORCA VIA BARCELONA,Vancouver,PMI,Weekly,30,320,395
+SPAIN (incl. Balearic Islands),VALENCIA VIA BARCELONA,Montreal,VLC,Weekly,23,120,120
+SPAIN (incl. Balearic Islands),VALENCIA VIA BARCELONA,Toronto,VLC,Weekly,23,125,125
+SPAIN (incl. Balearic Islands),VALENCIA VIA BARCELONA,Vancouver,VLC,Weekly,23,165,165

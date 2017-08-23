@@ -1,0 +1,37 @@
+Destination Country,Destination City,"ORIGIN                      
+ (Port of Loading)   ",Sailing Frequency,"Transit Time (Days)  
+          (Port to Port)","Ocean Freight 
+Charges PER CBM Rate (USD)","(Minimim Ocean Freight
+ Charges/ shipment)",Additional B/L
+Canada,Toronto,"Ningbo, China",Weekly,21,80,80,
+Canada,Toronto,"Shanghai, China",Weekly,21,80,80,
+Canada,Toronto,"Shenzhen, China",Weekly,21,85,85,
+Canada,Toronto,"Guangzhou,   China",Weekly,28,98,98,
+Canada,Toronto,"Xiamen,   China",Weekly,24,80,80,
+Canada,Toronto,"Qingdao,  China",Weekly,0,80,80,
+Canada,Toronto,"Hongkong,  China",Weekly,21,80,80,
+Canada,Toronto,"Mumbai,  India",Weekly,28,95,95,
+Canada,Toronto,"Delhi,  India",Weekly,36,125,125,
+Canada,Toronto,"Ludhiana,  India",Bi-Weekly,36,128,128,
+Canada,Toronto,"Chittagong,  Bangladesh",Bi-Weekly,30,92,92,
+Canada,Montreal,"Ningbo,  China",Weekly,21,80,80,
+Canada,Montreal,"Shanghai,  China",Weekly,21,80,80,
+Canada,Montreal,"Shenzhen,  China",Weekly,21,85,85,
+Canada,Montreal,"Guangzhou,  China",Weekly,28,98,98,
+Canada,Montreal,"Xiamen,  China",Weekly,24,80,80,
+Canada,Montreal,"Qingdao,  China",Weekly,0,80,80,
+Canada,Montreal,"Hongkong,  China",Weekly,21,80,80,
+Canada,Montreal,"Mumbai,  India",Weekly,28,95,95,
+Canada,Montreal,"Delhi,  India",Weekly,36,125,125,
+Canada,Montreal,"Ludhiana,  India",Bi-Weekly,36,128,128,
+Canada,Montreal,"Chittagong,  Bangladesh",Bi-Weekly,30,92,92,
+Canada,Vancouver,"Ningbo,  China",Weekly,21,64,64,25
+Canada,Vancouver,"Shanghai,  China",Weekly,21,64,64,25
+Canada,Vancouver,"Shenzhen,  China",Weekly,21,64,64,25
+Canada,Vancouver,"Guangzhou,  China",Weekly,28,74,74,25
+Canada,Vancouver,"Xiamen,  China",Weekly,24,64,64,25
+Canada,Vancouver,"Qingdao,  China",Weekly,0,64,64,25
+Canada,Vancouver,"Hongkong,  China",Weekly,21,64,64,25
+Canada,Vancouver,"Mumbai,  India",Weekly,28,131,131,45
+Canada,Vancouver,"Delhi,  India",Weekly,36,150,150,45
+Canada,Vancouver,"Ludhiana,  India",Bi-Weekly,36,216,216,45
